@@ -1,1 +1,137 @@
-এখানের টেক্সট গুলো কেটে আপনার ফেসবুক আইডির কুকি বসান ✅
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261585067253032%22%3A%22LILpBbRd%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2026-03-22T12:43:04.200Z",
+        "lastAccessed": "2026-03-22T12:43:04.201Z"
+    },
+    {
+        "key": "datr",
+        "value": "4uK_aRKhsyX5W1IMT4yRhGsz",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-22T12:43:04.201Z",
+        "lastAccessed": "2026-03-22T12:43:04.201Z"
+    },
+    {
+        "key": "sb",
+        "value": "4uK_acUmlp8Oq8YlWEVAOAkL",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-22T12:43:04.201Z",
+        "lastAccessed": "2026-03-22T12:43:04.201Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "3",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-22T12:43:04.201Z",
+        "lastAccessed": "2026-03-22T12:43:04.201Z"
+    },
+    {
+        "key": "wd",
+        "value": "360x800",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-22T12:43:04.201Z",
+        "lastAccessed": "2026-03-22T12:43:04.201Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-22T12:43:04.201Z",
+        "lastAccessed": "2026-03-22T12:43:04.201Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-22T12:43:04.201Z",
+        "lastAccessed": "2026-03-22T12:43:04.201Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61585067253032",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-22T12:43:04.201Z",
+        "lastAccessed": "2026-03-22T12:43:04.201Z"
+    },
+    {
+        "key": "xs",
+        "value": "50%3A6IdwgutrqdqyJQ%3A2%3A1774183327%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-22T12:43:04.201Z",
+        "lastAccessed": "2026-03-22T12:43:04.201Z"
+    },
+    {
+        "key": "fr",
+        "value": "0tm0LLUdVLKmSCPOa.AWcIZYB1vqIxMa3LrPJeZUsO-gLaG2xmgO9HUUM-tSpTDq8SwjU.Bpv-Li..AAA.0.0.Bpv-Ol.AWcaRhG7b7mhtx9SzQ11Im3P1fc",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-22T12:43:04.201Z",
+        "lastAccessed": "2026-03-22T12:43:04.201Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-22T12:43:04.201Z",
+        "lastAccessed": "2026-03-22T12:43:04.201Z"
+    },
+    {
+        "key": "pas",
+        "value": "61585067253032%3A7bcGeIg86s",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-22T12:43:04.201Z",
+        "lastAccessed": "2026-03-22T12:43:04.201Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3114%3Btimestamp%3A1774183333",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-22T12:43:04.201Z",
+        "lastAccessed": "2026-03-22T12:43:04.201Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100628015%3BT%3A29569722",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-22T12:43:04.201Z",
+        "lastAccessed": "2026-03-22T12:43:04.201Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B708x360x3",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-22T12:43:04.201Z",
+        "lastAccessed": "2026-03-22T12:43:04.201Z"
+    }
+      ]
